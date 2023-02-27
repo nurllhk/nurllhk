@@ -31,7 +31,7 @@ Do you like my work?
 - 💬 &nbsp; Ask me about anything [here](https://github.com/nurllhk)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: kayanurullah538@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/nurllhk/nkcv).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/nurllhk/nkcv/blob/main/NURULAH_KAYA.pdf).
 
 ### My Absolute Favorites:
 
