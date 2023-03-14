@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/nurllh.k/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/nurllhk)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; 
 
 I am studying Computer Engineering 🎓 from Ahi Evran University 🏛. I am a passionate student always eager to learn and work across technologies and fields 💡. I love exploring new technologies and leveraging them to solve real-life problems ✨. Apart from that I also love to guide and mentor startups 👨🏻‍💻. I am currently interested in Web Development and mobile development 🕸️ and working on my Data Structures - Algorithms 🤓.
 
