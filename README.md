@@ -33,6 +33,13 @@ Do you like my work?
 - 📫 &nbsp; How to reach me: kayanurullah538@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/nurllhk/nkcv/blob/main/NURULAH_KAYA.pdf).
 
+</br>
+
+
+<a href='github.com/nurllhk'>
+<img width="343" align='right' alt="Ekran Resmi 2023-03-14 13 21 38" src="https://user-images.githubusercontent.com/79688257/224970855-0288d1a7-85f7-49a2-9962-41990ffd1047.png">
+</a>
+
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love building mobile apps using the latest designs and technologies.
