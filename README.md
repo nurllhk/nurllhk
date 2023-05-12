@@ -1,3 +1,4 @@
+
 ## Hey 👋, I'm [NURULAH KAYA!](https://github.com/nurllhk/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nurulah-kaya-10a88320a/)
@@ -37,7 +38,7 @@ Do you like my work?
 
 
 <a href='github.com/nurllhk'>
-<img width="343" align='right' alt="Ekran Resmi 2023-03-14 13 21 38" src="https://user-images.githubusercontent.com/79688257/224970855-0288d1a7-85f7-49a2-9962-41990ffd1047.png">
+<img width="400" align='right' alt="" src="https://github.com/nurllhk/nurllhk/assets/79688257/08eb3485-f82b-46f5-9b5b-77837a1e9a18">
 </a>
 
 ### My Absolute Favorites:
