@@ -10,7 +10,7 @@
 
 🎯 **About Me**
 
-I’m a mobile developer with over **4 years of experience**, building production-ready cross-platform applications using **Flutter**, **SwiftUI**, and **platform channels**. I specialize in:
+I’m a mobile developer with over **5 years of experience**, building production-ready cross-platform applications using **Flutter**, **SwiftUI**, and **platform channels**. I specialize in:
 
 - **NFC payment integrations** (Mastercard Tap on Phone, Apple Pay, Stripe)
 - **IoT & telemetry systems** (MQTT, REST, Pixhawk telemetry over GSM)
